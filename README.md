@@ -11,6 +11,8 @@ return
 
 Will work
 
-send, http://www.some_Address.com/asp`%strings`%with`%sIn`%Them
+send, http://www.some_Address.com/asp\`%strings\`%with\`%sIn\`%Them
 
 return
+
+*having a tough time showing this in the readme file. Some browsers won't show the inserted ` 
